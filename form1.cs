@@ -63,21 +63,7 @@ namespace WindowsFormsApplication6
             
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-        
-           
-        }
 
-        private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         public void screenshot()
         {
